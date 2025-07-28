@@ -1,65 +1,66 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GautamRaju18.GautamRaju18" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gautam+Raju!;" />
-</h1>
-
-<h3 align="center">🚀 Passionate Software Developer from Hyderabad, India</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **improving my problem-solving skills**  
- 🌱 I’m learning **Competitive Programming (CP), Machine Learning (ML), and R**  
- ⚡ Fun Fact: I love gaming and building cool projects!
-
-</div>
+- 👋 Hi, I’m @GautamRaju18  
+- 👀 I’m interested in Competitive Programming, Machine Learning & Full Stack Development  
+- 🌱 I’m currently learning CP, ML, R & Next.js  
+- 😄 Pronouns: He/Him  
+- 🎮 Fun fact: I’m an esports enthusiast and tournament organizer  
 
 <br/>
 
-<div align="center"> 
+<div> 
   <a href="mailto:gautamraju20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/gautamraju18" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://gautamraju18.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://leetcode.com/gautamraju2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,figma,vscode,github,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,java,c,js,ts,flask,mysql,r" />
-</div>
-
----
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GautamRaju18/GautamRaju18/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=GautamRaju18&count_private=true&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=GautamRaju18&count_private=true&show_icons=true&theme=react&border_radius=10" />
-  <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamRaju18&hide=html&layout=compact&theme=react&border_radius=10" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <b>Thanks for visiting! Have a great day! 😄</b>
-</div>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gautamraju2004?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=GautamRaju18&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@GautamRaju18's GitHub Stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GautamRaju18&theme=tokyonight&hide_border=true" width="48%" alt="@GautamRaju18's Streak Stats" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamRaju18&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" width="96%" alt="activity graph">
+  <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamRaju18&layout=donut&hide_border=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GautamRaju18&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@GautamRaju18's Trophy Stats"/>
+</p>
